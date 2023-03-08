@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-cad43d84","path":"/zh_tw/special/elytra.html","title":"鞘翅","lang":"zh_tw","frontmatter":{},"headers":[{"level":2,"title":"合成","slug":"合成","link":"#合成","children":[]}],"git":{"updatedTime":1678282949000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/special/elytra.md"}');export{e as data};

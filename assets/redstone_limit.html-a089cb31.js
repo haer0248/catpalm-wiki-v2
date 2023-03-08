@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-0b1fb448","path":"/zh_tw/feature/redstone_limit.html","title":"紅石限制","lang":"zh_tw","frontmatter":{},"headers":[],"git":{"updatedTime":1678282949000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/feature/redstone_limit.md"}');export{t as data};
