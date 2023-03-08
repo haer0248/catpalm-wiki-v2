@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-23b57538","path":"/zh_tw/feature/dispenser_industry.html","title":"發射器工業","lang":"zh_tw","frontmatter":{},"headers":[],"git":{"updatedTime":1678281551000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/feature/dispenser_industry.md"}');export{e as data};
