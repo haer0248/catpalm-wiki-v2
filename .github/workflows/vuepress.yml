@@ -26,6 +26,9 @@ jobs:
 
       - name: Build site
         run: npm run build
+        env:
+          ALGOLIA_DOCSEARCH_APP_ID: ${{ secrets.ALGOLIA_DOCSEARCH_APP_ID }}
+          ALGOLIA_DOCSEARCH_API_KEY: ${{ secrets.ALGOLIA_DOCSEARCH_API_KEY }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
