@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-40ad38a2","path":"/zh_tw/feature/spawn_elder_guardian.html","title":"生成遠古深海守衛","lang":"zh_tw","frontmatter":{},"headers":[],"git":{"updatedTime":1678285989000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/feature/spawn_elder_guardian.md"}');export{a as data};
