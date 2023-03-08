@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2f256333","path":"/zh_tw/feature/cat_day.html","title":"貓之日","lang":"zh_tw","frontmatter":{},"headers":[],"git":{"updatedTime":1678280318000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/feature/cat_day.md"}');export{t as data};
