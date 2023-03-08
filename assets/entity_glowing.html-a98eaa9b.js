@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-70380ed3","path":"/zh_tw/feature/entity_glowing.html","title":"生物發光","lang":"zh_tw","frontmatter":{},"headers":[],"git":{"updatedTime":1678280318000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/feature/entity_glowing.md"}');export{t as data};

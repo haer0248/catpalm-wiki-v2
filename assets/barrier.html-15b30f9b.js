@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0233e8cc","path":"/zh_tw/special/barrier.html","title":"屏障","lang":"zh_tw","frontmatter":{},"headers":[{"level":2,"title":"合成","slug":"合成","link":"#合成","children":[]}],"git":{"updatedTime":1678280318000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/special/barrier.md"}');export{e as data};

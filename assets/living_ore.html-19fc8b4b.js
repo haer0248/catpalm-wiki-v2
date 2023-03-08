@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bd860280","path":"/zh_tw/feature/living_ore.html","title":"活體礦物","lang":"zh_tw","frontmatter":{},"headers":[],"git":{"updatedTime":1678281551000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/feature/living_ore.md"}');export{e as data};
