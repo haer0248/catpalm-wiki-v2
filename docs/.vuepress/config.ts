@@ -35,13 +35,13 @@ const config = defineUserConfig({
   // theme and its config
   theme: defaultTheme({
     sidebarDepth: 3,
-    logo: './images/73d617852e3fafadd042f4277d0a4934_32.png',
+    logo: '/images/73d617852e3fafadd042f4277d0a4934_32.png',
     navbar,
     sidebar,
-    repo: 'https://github.com/haer0248/catpalm-wiki',
-    docsRepo: 'https://github.com/haer0248/catpalm-wiki',
+    repo: 'https://github.com/haer0248/catpalm-wiki-v2',
+    docsRepo: 'https://github.com/haer0248/catpalm-wiki-v2',
     docsBranch: 'main',
-    docsDir: 'guide',
+    docsDir: 'docs',
     locales: {
       '/zh_tw': {
         selectLanguageName: '繁體中文',
