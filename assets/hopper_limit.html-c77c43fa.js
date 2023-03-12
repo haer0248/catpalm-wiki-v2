@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1970776c","path":"/ko_kr/feature/hopper_limit.html","title":"깔때기 제한","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/hopper_limit.md"}');export{e as data};

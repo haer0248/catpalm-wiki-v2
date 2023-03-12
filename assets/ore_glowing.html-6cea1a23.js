@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8d1b9458","path":"/ja_jp/feature/ore_glowing.html","title":"鉱物の発光","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/ore_glowing.md"}');export{e as data};

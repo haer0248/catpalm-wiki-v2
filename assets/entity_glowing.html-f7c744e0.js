@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-15776a7e","path":"/ko_kr/feature/entity_glowing.html","title":"발광","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/entity_glowing.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-780dc3f9","path":"/ja_jp/feature/enhanced_armor_stand.html","title":"強化された防具架","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/enhanced_armor_stand.md"}');export{a as data};

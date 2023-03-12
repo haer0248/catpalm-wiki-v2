@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-728fae4c","path":"/ja_jp/feature/living_ore.html","title":"生きた鉱石","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/living_ore.md"}');export{e as data};

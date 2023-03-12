@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-59b5da52","path":"/ko_kr/feature/dispenser_industry.html","title":"발사기 산업","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/dispenser_industry.md"}');export{e as data};

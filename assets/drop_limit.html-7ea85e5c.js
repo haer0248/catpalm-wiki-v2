@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-453acbca","path":"/ja_jp/feature/drop_limit.html","title":"アイテムドロップ制限","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/drop_limit.md"}');export{a as data};

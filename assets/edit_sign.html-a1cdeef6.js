@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-910b6a4c","path":"/ja_jp/feature/edit_sign.html","title":"看板の編集","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/edit_sign.md"}');export{e as data};

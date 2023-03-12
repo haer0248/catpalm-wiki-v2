@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5477f9cd","path":"/zh_tw/feature/entity_limit.html","title":"實體限制","lang":"zh_tw","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/feature/entity_limit.md"}');export{t as data};

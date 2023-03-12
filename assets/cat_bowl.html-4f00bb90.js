@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-cb799a22","path":"/ko_kr/feature/cat_bowl.html","title":"고양이 사료","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/cat_bowl.md"}');export{e as data};

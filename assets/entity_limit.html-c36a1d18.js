@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ecc34d8a","path":"/ko_kr/feature/entity_limit.html","title":"개체 제한","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/entity_limit.md"}');export{t as data};

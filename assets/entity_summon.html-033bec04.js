@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7906de4f","path":"/ja_jp/feature/entity_summon.html","title":"エンティティの召喚","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/entity_summon.md"}');export{e as data};

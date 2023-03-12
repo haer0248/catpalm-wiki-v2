@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2b50067e","path":"/en_us/feature/drop_limit.html","title":"Item drop limit","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/drop_limit.md"}');export{e as data};

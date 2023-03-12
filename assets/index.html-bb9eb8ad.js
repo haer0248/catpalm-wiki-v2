@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f306c2f4","path":"/ko_kr/","title":"상점","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/README.md"}');export{e as data};

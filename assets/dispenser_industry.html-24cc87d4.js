@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9c6c9504","path":"/ja_jp/feature/dispenser_industry.html","title":"発射装置産業","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/dispenser_industry.md"}');export{e as data};

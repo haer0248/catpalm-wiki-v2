@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-773e74e0","path":"/en_us/feature/full_map.html","title":"Full Map","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/full_map.md"}');export{e as data};

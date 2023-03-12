@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-25b061ae","path":"/ko_kr/feature/living_ore.html","title":"생체 광물","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/living_ore.md"}');export{e as data};

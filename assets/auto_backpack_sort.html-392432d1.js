@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-335d24ff","path":"/en_us/feature/auto_backpack_sort.html","title":"Automatic Inventory Sorting","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/auto_backpack_sort.md"}');export{t as data};
