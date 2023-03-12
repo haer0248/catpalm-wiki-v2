@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-65b8cf66","path":"/ja_jp/feature/soul_link.html","title":"ソウルバインド","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678621182000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/soul_link.md"}');export{e as data};

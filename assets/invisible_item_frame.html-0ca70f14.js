@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1e30b033","path":"/ja_jp/feature/invisible_item_frame.html","title":"透明なアイテムフレーム","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/invisible_item_frame.md"}');export{e as data};

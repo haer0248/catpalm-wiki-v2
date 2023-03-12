@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-17737ce1","path":"/ko_kr/feature/item_placement.html","title":"아이템 배치","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678621182000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/item_placement.md"}');export{e as data};

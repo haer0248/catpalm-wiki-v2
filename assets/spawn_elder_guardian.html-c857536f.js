@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3736553c","path":"/en_us/feature/spawn_elder_guardian.html","title":"Spawn Elder Guardian","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678621182000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/spawn_elder_guardian.md"}');export{e as data};

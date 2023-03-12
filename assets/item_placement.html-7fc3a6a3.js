@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6779249a","path":"/en_us/feature/item_placement.html","title":"Item Placement","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678621182000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/item_placement.md"}');export{e as data};

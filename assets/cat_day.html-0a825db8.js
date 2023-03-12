@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-518e0e73","path":"/en_us/feature/cat_day.html","title":"Cat Day","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/cat_day.md"}');export{e as data};

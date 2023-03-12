@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-15a7a7dc","path":"/ko_kr/feature/soul_link.html","title":"영혼 결속","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/soul_link.md"}');export{e as data};

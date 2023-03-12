@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4b2927ee","path":"/en_us/feature/ore_glowing.html","title":"Glowing Mineral","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678621182000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/ore_glowing.md"}');export{e as data};

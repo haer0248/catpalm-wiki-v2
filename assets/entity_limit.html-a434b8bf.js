@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-a60f52e6","path":"/en_us/feature/entity_limit.html","title":"Entity Restrictions","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/entity_limit.md"}');export{t as data};

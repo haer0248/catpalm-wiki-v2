@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-07d10567","path":"/ja_jp/feature/entity_limit.html","title":"エンティティ制限","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678621182000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/entity_limit.md"}');export{t as data};

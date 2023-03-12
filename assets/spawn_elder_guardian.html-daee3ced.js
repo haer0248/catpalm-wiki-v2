@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-a613eb88","path":"/ja_jp/feature/spawn_elder_guardian.html","title":"エルダーガーディアンを生成","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678620294000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/spawn_elder_guardian.md"}');export{a as data};
