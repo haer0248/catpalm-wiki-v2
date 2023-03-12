@@ -1,6 +1,4 @@
-# 繁體中文
-
-## 商店
+# 商店
 <a href="item/canned_cat.html"><img src="https://i.imgur.com/wxw402A.png" width="48"/></a>
 <a href="item/reward_card.html"><img src="https://i.imgur.com/b9dvhST.gif" width="48"/></a>
 <a href="item/super_fish_cracker.html"><img src="https://i.imgur.com/FKdV3M1.gif" width="48"/></a>
@@ -9,7 +7,7 @@
 <a href="item/entity_exterior_tag.html"><img src="https://i.imgur.com/nSlDuha.png" width="48"/></a>
 <a href="item/music_box.html"><img src="https://i.imgur.com/N9JBO3W.png" width="48"/></a>
 
-## 道具
+# 道具
 <a href="item/newcomer_bag.html"><img src="https://i.imgur.com/KqzjESH.png" width="48"/></a>
 <a href="item/world_map_view.html"><img src="https://i.imgur.com/w5nzar8.png" width="48"/></a>
 <a href="item/world_map_capture.html"><img src="https://i.imgur.com/Ix15Njd.png" width="48"/></a>
@@ -267,7 +265,7 @@
 <a href="item/internet_controller.html"><img src="https://i.imgur.com/dhPGMzP.png" width="48"/></a>
 <a href="item/internet_controller.html"><img src="https://i.imgur.com/Ax29g76.png" width="48"/></a>
 
-## 玩具
+# 玩具
 <a href="item/laser_crystal.html"><img src="https://i.imgur.com/XtnjByk.png" width="48"/></a>
 <a href="item/laser_crystal.html"><img src="https://i.imgur.com/SMGsAXQ.png" width="48"/></a>
 <a href="item/laser_crystal.html"><img src="https://i.imgur.com/YhQcTsN.png" width="48"/></a>
@@ -303,7 +301,7 @@
 <a href="item/explosive_starlight_water.html"><img src="https://i.imgur.com/QLSMeIs.png" width="48"/></a>
 <a href="item/explosive_starlight_water.html"><img src="https://i.imgur.com/lEnauBv.png" width="48"/></a>
 
-## 食物
+# 食物
 <a href="food/beef_jerky.html"><img src="https://i.imgur.com/V7SSMq5.png" width="48"/></a>
 <a href="food/mouldy_bread.html"><img src="https://i.imgur.com/peF2d4K.png" width="48"/></a>
 <a href="food/cheese.html"><img src="https://i.imgur.com/olzWTz3.png" width="48"/></a>
@@ -325,7 +323,7 @@
 <a href="food/candy_cane.html"><img src="https://i.imgur.com/XWclnLY.png" width="48"/></a>
 <a href="food/candy_cane.html"><img src="https://i.imgur.com/aC0rrW4.png" width="48"/></a>
 
-## 裝飾
+# 裝飾
 <a href="decor/alien_antenna.html"><img src="https://i.imgur.com/7kP0AMr.gif" width="48"/></a>
 <a href="decor/angel_circle.html"><img src="https://i.imgur.com/ymQfXnG.png" width="48"/></a>
 <a href="decor/angel_circle.html"><img src="https://i.imgur.com/xtX6NUT.png" width="48"/></a>
@@ -435,7 +433,7 @@
 <a href="decor/lucky_money.html"><img src="https://i.imgur.com/pZimoHQ.png" width="48"/></a>
 <a href="decor/witch_hat.html"><img src="https://i.imgur.com/K5wTp0D.png" width="48"/></a>
 
-## 特殊
+# 特殊
 <a href="special/wandering_trader_spawn_egg.html"><img src="https://i.imgur.com/n06STMh.png" width="48"/></a>
 <a href="special/barrier.html"><img src="https://i.imgur.com/uBzq1SX.png" width="48"/></a>
 <a href="special/brown_mushroom.html"><img src="https://i.imgur.com/iupt5LZ.png" width="48"/></a>
@@ -443,7 +441,7 @@
 <a href="special/elytra.html"><img src="https://i.imgur.com/E4LgClR.png" width="48"/></a>
 <a href="special/cobweb.html"><img src="https://i.imgur.com/fWQQ0pc.png" width="48"/></a>
 
-## 特性
+# 特性
 <table>
     <tr>
         <td width="20%"><a href="feature/anniversary.html"><img src="https://i.imgur.com/c5e5e0L.png" width="198"/></a></td>
@@ -531,5 +529,5 @@
     </tr>
 </table>
 
-## 紀念
+# 紀念
 <a href="https://zh.wikipedia.org/wiki/Technoblade"><img src="https://i.imgur.com/Lzsztat.png" width="48"/></a>

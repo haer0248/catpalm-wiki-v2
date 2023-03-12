@@ -23,12 +23,22 @@ const config = defineUserConfig({
     '/zh_tw': {
       lang: 'zh_tw',
       title: '貓掌伺服器',
-      description: 'CatPalm 由 xuancat0208@gmail.com、創立於 2020/07/21',
+      description: 'CatPalm.net 由 xuancat0208@gmail.com、創立於 2020/07/21',
     },
     '/ja_jp/': {
       lang: 'ja_jp',
       title: '猫の手サーバー',
-      description: 'CatPalm created by xuancat0208@gmail.com. Since 2020/07/21',
+      description: 'CatPalm.netは2020年7月21日にxuancat0208@gmail.comによって設立されました',
+    },
+    '/ko_kr/': {
+      lang: 'ko_kr',
+      title: '고양이 발 서버',
+      description: 'CatPalm.net은 2020/07/21에 xuancat0208@gmail.com에 의해 설립되었습니다',
+    },
+    '/en_us/': {
+      lang: 'en_us',
+      title: 'CatPalm Server',
+      description: 'CatPalm.net was founded on July 21, 2020 by xuancat0208@gmail.com',
     },
   },
 
@@ -85,6 +95,31 @@ const config = defineUserConfig({
           'このページは見つかりませんでした。'
         ]
       },
+      '/ko_kr/': {
+        selectLanguageName: '한국어',
+        home: '/ko_kr/',
+        editLink: true,
+        editLinkPattern: ':repo/blob/:branch/:path',
+        editLinkText: 'GitHub에서 이 페이지 보기',
+        lastUpdated: true,
+        lastUpdatedText: '최근 업데이트',
+        contributors: true,
+        contributorsText: '기여자',
+        backToHome: '홈으로 돌아가기',
+        openInNewWindow: '새 창에서 열기',
+        toggleColorMode: '색상 모드 전환',
+        toggleSidebar: '사이드바 전환',
+        tip: '팁',
+        warning: '주의',
+        danger: '경고',
+        notFound: [
+          '죄송합니다. 이 페이지를 찾을 수 없습니다.'
+        ]
+      },
+      '/en_us/': {
+        selectLanguageName: 'English',
+        home: '/en_us/',
+      }
     },
   })
 })

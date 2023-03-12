@@ -1,6 +1,6 @@
 [← 回主頁](../)
 # Discord群組
-[中文](https://discord.gg/utTBPy6yVM)、[日本語](https://discord.gg/JfbdJQDkHA)
+[繁體中文](https://discord.gg/utTBPy6yVM)、[日語](https://discord.gg/JfbdJQDkHA)、[韓語](https://discord.gg/f6p96sBrdS)、[英語](https://discord.gg/gg5SHp2vFv)
 
 ### 狀態
 每3分鐘更新1次伺服器狀態，包括人數統計、CPU、RAM、儲存空間、分流、線上玩家清單。
@@ -12,10 +12,10 @@
 可使用表情、貼圖、上傳檔案的渠道，因此不與遊戲同步。
 
 ### 貓耳
-由`XUAN#0483`從[Pixiv](https://www.pixiv.net/tags/猫耳/artworks?mode=safe)精挑細選的插畫圖，更新時間不固定。
+由`XUAN#0483`從[Twitter](https://twitter.com/amsrntk3)精挑細選的插畫圖，更新時間不固定。
 
 ### 商店
-購買[貓糧罐](../item/canned_cat.md)、[靈魂核心](../item/soul_core.md)、[超級魚餅乾](../item/super_fish_cracker.md)的方式。
+購買[貓糧罐](../item/canned_cat.md)、[集點卡](../item/reward_card.md)、[靈魂核心](../item/soul_core.md)、[超級魚餅乾](../item/super_fish_cracker.md)的方式。
 
 ## 討論區
 給各玩家互相交流、打廣告用。
