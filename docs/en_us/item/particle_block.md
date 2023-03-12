@@ -21,7 +21,7 @@ Placing too many will cause your game to lag.。
 ---
 
 ## Use
-Right-click after placing to change color.，  
+Right-click after placing to change color.  
 
 <table>
     <tr>

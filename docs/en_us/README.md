@@ -453,7 +453,7 @@
     <tr>
         <td width="20%" align="center"><a href="feature/anniversary.html">Anniversary Celebration</a></td>
         <td width="20%" align="center"><a href="feature/cat_bowl.html">Cat Food</a></td>
-        <td width="20%" align="center"><a href="feature/discord_server.html">DiscordGroup</a></td>
+        <td width="20%" align="center"><a href="feature/discord_server.html">Discord Server</a></td>
         <td width="20%" align="center"><a href="feature/daily_signin.html">Daily check-in</a></td>
         <td width="20%" align="center"><a href="feature/cat_day.html">Cat Day</a></td>
     </tr>
