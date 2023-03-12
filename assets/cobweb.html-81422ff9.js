@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f5ab9a1e","path":"/zh_tw/special/cobweb.html","title":"蜘蛛網","lang":"zh_tw","frontmatter":{},"headers":[{"level":2,"title":"合成","slug":"合成","link":"#合成","children":[]}],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/special/cobweb.md"}');export{e as data};

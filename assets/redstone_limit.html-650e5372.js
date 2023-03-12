@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3bb4b2f6","path":"/ja_jp/feature/redstone_limit.html","title":"レッドストーン制限","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/redstone_limit.md"}');export{e as data};

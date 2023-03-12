@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0a6c4a10","path":"/ko_kr/feature/spawn_elder_guardian.html","title":"고대의 심해 감시자 소환","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/spawn_elder_guardian.md"}');export{a as data};

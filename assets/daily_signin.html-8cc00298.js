@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-685936b2","path":"/ko_kr/feature/daily_signin.html","title":"매일 로그인","lang":"ko_kr","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ko_kr/feature/daily_signin.md"}');export{e as data};

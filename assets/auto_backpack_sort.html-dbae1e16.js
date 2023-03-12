@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-d6ec6f4e","path":"/ja_jp/feature/auto_backpack_sort.html","title":"自動整理バッグ","lang":"ja_jp","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"ja_jp/feature/auto_backpack_sort.md"}');export{a as data};

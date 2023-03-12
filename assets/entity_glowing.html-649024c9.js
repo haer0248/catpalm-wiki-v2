@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-abd788da","path":"/en_us/feature/entity_glowing.html","title":"The creature glows.","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/entity_glowing.md"}');export{e as data};

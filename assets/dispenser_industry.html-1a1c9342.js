@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-509d1224","path":"/en_us/feature/dispenser_industry.html","title":"Launcher Industry","lang":"en_us","frontmatter":{},"headers":[],"git":{"updatedTime":1678619058000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"en_us/feature/dispenser_industry.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-db317e1a","path":"/zh_tw/feature/item_placement.html","title":"物品放置","lang":"zh_tw","frontmatter":{},"headers":[],"git":{"updatedTime":1678285989000,"contributors":[{"name":"Michael Lin","email":"admin@haer0248.me","commits":1}]},"filePathRelative":"zh_tw/feature/item_placement.md"}');export{e as data};
