@@ -93,9 +93,9 @@ The first and second pages are explanations, and the third page begins with (ALL
 Players can be nicknames or names, but after editing, they are automatically converted to nicknames (rename_milk.md).
 ```yaml
 # Maximum limit of 200 players.
-#Format::
+#Format:
 # Player name = permission list.
-#Permissions::
+#Permissions:
 #  A Armor Stand
 #  B Boat
 #  D Break block
@@ -121,7 +121,7 @@ Players can be nicknames or names, but after editing, they are automatically con
 Your player name=ABDEFGHILMPRSTUVY
 ```
 
-Allow all players to fly：  
+Allow all players to fly:  
 ```yaml
 (ALL)=Y
 Your player name=ABDEFGHILMPRSTUVY
@@ -199,7 +199,7 @@ and will disappear after the update.
 ---
 
 ## Active
-The following actions will increase activity:：
+The following actions will increase activity:
 - Entity trading, +`100` per transaction
 - Block breaking, placing, and updating, +`40` per action
 - Item picking up, dropping, container taking, and container putting, +`20` per action

@@ -1,6 +1,6 @@
 [← Return to main page](../)
 # Teleportation Record Gem
-Running back and forth between two places。
+Running back and forth between two places.
 
 ## Data
 <table>
@@ -45,7 +45,7 @@ When held in the main hand, an inactive Teleportation Record Gem can be activate
     <tr><td><img src="https://i.imgur.com/av4OPF8.png" width="400"/></td><td><img src="https://i.imgur.com/4lduUoD.png" width="400"/></td></tr>
 </table>
 
-When the gem is activated, using it will perform the following actions:：
+When the gem is activated, using it will perform the following actions:
 - Retrieve the saved location from the gem
 - Save the current location into the gem
 - Teleport to the retrieved location

@@ -38,7 +38,7 @@ Can draw pixel art, but... everyone just uploads images.
 ---
 
 ## Use
-Hold a blank canvas in the main hand to activate it:  
+Hold a blank canvas in the main hand to activate it:
 
 <table>
     <tr><td align="center">Disabled</td><td align="center">Enabled</td></tr>
@@ -62,7 +62,7 @@ Hold the [paintbrush](pen.md) in the main hand and right-click on the canvas to 
 
 <img src="https://i.imgur.com/2lYxLbW.png" width="400"/>
 
-Item Frame Rotates and Still Can Be Painted。  
+Item Frame Rotates and Still Can Be Painted.  
 
 <table>
     <tr><td><img src="https://i.imgur.com/KfEiw0R.png" width="400"/></td><td><img src="https://i.imgur.com/ctU1P58.png" width="400"/></td></tr>
