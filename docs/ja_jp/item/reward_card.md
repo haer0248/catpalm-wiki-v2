@@ -12,7 +12,7 @@
 ---
 
 ## 入手
-[Discordグループ](../feature/discord_server.md)の[ストア](https://discord.com/channels/799977829805981716/1048223592342622289)。
+[Discordグループ](../feature/discord_server.md)。
 
 ---
 
@@ -32,7 +32,7 @@
 ※ ここで示されているのは鉄インゴットの例です。
 
 ### 必要アイテム提出
-発生する可能性があります。：  
+発生する可能性があります：  
 
 <table>
     <tr><td align="center" width="150">タグ</td><td align="center">含まれていません</td></tr>

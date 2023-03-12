@@ -12,9 +12,10 @@
 ---
 
 ## 획득
-<a href="https://discord.com/channels/799977829805981716/1048223592342622289">Discord 그룹</a>의 상점.
+[Discord 그룹](../feature/discord_server.md).
 
 ---
 
 ## 용도
-섭취 후 30일 동안 고양이 사료(cat-bowl.md) 특전이 부여됩니다.
+섭취 후 30일 동안 [고양이 사료](../feature/cat_bowl.md) 특전이 부여됩니다.
+``
